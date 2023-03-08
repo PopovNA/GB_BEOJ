@@ -1,8 +1,8 @@
+package lesson3;
+
 import org.junit.jupiter.api.Test;
-import io.restassured.http.ContentType;
 
 import static io.restassured.RestAssured.given;
-import static org.hamcrest.CoreMatchers.equalTo;
 import static org.hamcrest.CoreMatchers.not;
 
 public class ShoppingListScenarioTest extends AbstractTest {
