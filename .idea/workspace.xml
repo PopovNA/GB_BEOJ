@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d9f486d-3aee-4ecd-98a8-9c2760eaabf0" name="Changes" comment="homework lesson 3" />
+    <list default="true" id="8d9f486d-3aee-4ecd-98a8-9c2760eaabf0" name="Changes" comment="homework lesson 3">
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson4/AbstractTest4AbstractTest4ShoppingListScenario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson4/AbstractTest4ShoppingListScenario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson4/CopyPostmanTestV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson4/ShoppingListScenarioTestV2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/my.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/my.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +27,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="666b2a1a-ea68-4acd-b0a0-2c83829f7649" />
+        <option name="url" value="https://github.com/PopovNA/GB_BEOJ.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -41,7 +62,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Git/GB_BEOJ/src/test/java"
+    "last_opened_file_path": "D:/Git/backend-test-master",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -49,23 +71,37 @@
       <recent name="D:\Git\GB_BEOJ\src\test\java" />
       <recent name="D:\Git\GB_BEOJ\src\main\resources" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lesson4" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.ShoppingListScenarioTest">
-    <configuration name="CopyPostmanTest.getRecipesComlexSearchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.CopyPostmanTestV2.getRecipesComlexSearchTest">
+    <configuration name="CopyPostmanTestV2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GB_BEOJ" />
-      <option name="PACKAGE_NAME" value="lesson3" />
-      <option name="MAIN_CLASS_NAME" value="lesson3.CopyPostmanTest" />
-      <option name="METHOD_NAME" value="getRecipesComlexSearchTest" />
-      <option name="TEST_OBJECT" value="method" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lesson4" />
+      <option name="MAIN_CLASS_NAME" value="lesson4.CopyPostmanTestV2" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CopyPostmanTest.getRecipesCuisine" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CopyPostmanTestV2.getRecipesComlexSearchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GB_BEOJ" />
-      <option name="PACKAGE_NAME" value="lesson3" />
-      <option name="MAIN_CLASS_NAME" value="lesson3.CopyPostmanTest" />
-      <option name="METHOD_NAME" value="getRecipesCuisine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lesson4" />
+      <option name="MAIN_CLASS_NAME" value="lesson4.CopyPostmanTestV2" />
+      <option name="METHOD_NAME" value="getRecipesComlexSearchTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,6 +122,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ShoppingListScenarioTestV2.addMealTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GB_BEOJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lesson4" />
+      <option name="MAIN_CLASS_NAME" value="lesson4.ShoppingListScenarioTestV2" />
+      <option name="METHOD_NAME" value="addMealTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ShoppingListScenarioTest.addMealTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GB_BEOJ" />
       <option name="PACKAGE_NAME" value="lesson3" />
@@ -98,10 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CopyPostmanTestV2.getRecipesComlexSearchTest" />
+        <item itemvalue="JUnit.CopyPostmanTestV2" />
+        <item itemvalue="JUnit.ShoppingListScenarioTestV2.addMealTest" />
         <item itemvalue="JUnit.ShoppingListScenarioTest" />
         <item itemvalue="JUnit.ShoppingListScenarioTest.addMealTest" />
-        <item itemvalue="JUnit.CopyPostmanTest.getRecipesCuisine" />
-        <item itemvalue="JUnit.CopyPostmanTest.getRecipesComlexSearchTest" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678277902206</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="homework lesson 3">
+      <created>1678278181725</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678278181725</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,7 +217,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/ShoppingListScenarioTest.java</url>
+          <url>file://$PROJECT_DIR$/src/test/java/lesson3/ShoppingListScenarioTest.java</url>
           <line>37</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
